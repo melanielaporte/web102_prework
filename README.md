@@ -35,9 +35,13 @@ The following **required** functionality is completed:
 * [x] New logo.
 * [x] New header font. 
 
+## Project: Live Site
+
+https://melanielaporte.github.io/web102_prework/
+
 ## Project: Video Walkthrough
 
-Here's a walkthrough of implemented features:
+Enjoy a walkthrough of implemented features. 
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
