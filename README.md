@@ -1,10 +1,10 @@
-# WEB102 Prework - *GetTheeFunded*
+<h1>WEB102 Prework - GetTheeFunded</h1>
 
 Submitted by: **Melanie Laporte*
 
-**GetTheeFunded** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Sea Monster ** is a website for the company Sea Monster Crowdfunding, under the umbrella Get Thee Funded corporation that displays information about the games they have funded.
 
-Time spent: **10** hours spent in total
+Time spent: **12** hours spent in total
 
 ## Required Features
 
