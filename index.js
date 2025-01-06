@@ -17,7 +17,11 @@ function deleteChildElements(parent) {
     }
 }
 
-
+function deleteChildElements(parent) {
+    while (parent.firstChild) {
+        parent.removeChild(parent.firstChild);
+    }
+}
 
 /*****************************************************************************
  * Challenge 3: Add data about each game as a card to the games-container
@@ -155,3 +159,5 @@ const sortedGames =  GAMES_JSON.sort( (item1, item2) => {
 // create a new element to hold the name of the top pledge game, then append it to the correct element
 
 // do the same for the runner up item
+
+
