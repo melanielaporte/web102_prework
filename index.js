@@ -17,6 +17,8 @@ function deleteChildElements(parent) {
     }
 }
 
+
+
 /*****************************************************************************
  * Challenge 3: Add data about each game as a card to the games-container
  * Skills used: DOM manipulation, for loops, template literals, functions
