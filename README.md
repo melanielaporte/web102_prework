@@ -8,16 +8,15 @@ Time spent: **13** hours spent in total
 
 ![tentacles](https://github.com/user-attachments/assets/12be02ce-d872-4b75-82c0-45a79c715bf4)
 
-In 2000, Sea Monster Crowdfunding (SMC under the Atlantian Inc. umbrella), was founded by heiresses Thalassia Tideborne and Nerissa Wavecaster in downtown Poseidonis, Atlantis. 
-
 ## Company Beginnings
 In 2000, Sea Monster Crowdfunding (SMC under the Atlantian Inc. umbrella), was founded by heiresses Thalassia Tideborne and Nerissa Wavecaster in downtown Poseidonis, Atlantis. 
 
+Fueled by their lifelong gaming obsession, the sisters embraced the motto "Where Big Dreams Meet Big Waves" and set out to reshape the indie gaming world. 
+
+SMC specializes in championing the most bizarre, bold, and boundary-pushing indie games—projects so unique, even the surface world couldn’t have imagined them.
+
 <img src="https://github.com/user-attachments/assets/2e50f15c-82e1-420c-87ed-748a9466d4d7" alt="Untitled design (1)" width="300" />
 <img src="https://github.com/user-attachments/assets/57f31642-3c4d-4c86-86ca-a1559c1b4d5f" alt="Untitled design (1)" width="300" />
-
-The two sisters finally indulged their gaming obsession with a motto of *Where Big Dreams Meet Big Waves*. 
-SMC specialize in funding the most bizarre, bold, and boundary-pushing indie games that the dry world didn't know it needed.
 
 ## Project: Required Features
 
@@ -28,7 +27,7 @@ The following **required** functionality is completed:
 * [x] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
 * [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
-### Project: The following **optional** features are implemented:
+### Project: Optional Features
 
 * [x] A footer with links to social media accounts.
 * [x] A user comment box.
