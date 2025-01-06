@@ -9,7 +9,7 @@ Time spent: **13** hours spent in total
 ![tentacles](https://github.com/user-attachments/assets/12be02ce-d872-4b75-82c0-45a79c715bf4)
 
 ## Company Beginnings
-In 2000, Sea Monster Crowdfunding (SMC under the Atlantian Inc. umbrella), was founded by heiresses Thalassia Tideborne and Nerissa Wavecaster in downtown Poseidonis, Atlantis. 
+In 2022, Sea Monster Crowdfunding (SMC under the Atlantian Inc. umbrella), was founded by heiresses Thalassia Tideborne and Nerissa Wavecaster in downtown Poseidonis, Atlantis. 
 
 Fueled by their lifelong gaming obsession, the sisters embraced the motto *"Where Big Dreams Meet Big Waves"* and set out to reshape the indie gaming world. 
 
