@@ -17,12 +17,6 @@ function deleteChildElements(parent) {
     }
 }
 
-function deleteChildElements(parent) {
-    while (parent.firstChild) {
-        parent.removeChild(parent.firstChild);
-    }
-}
-
 /*****************************************************************************
  * Challenge 3: Add data about each game as a card to the games-container
  * Skills used: DOM manipulation, for loops, template literals, functions
@@ -35,36 +29,26 @@ const gamesContainer = document.getElementById("games-container");
 function addGamesToPage(games) {
 
     // loop over each item in the data
-
     for (let game of games) {
-    
+
         // create a new div element, which will become the game card
-        const gameCard = document.createElement("div");
+        const gamesCard = document.createElement('div');
 
         // add the class game-card to the list
-        gameCard.classList.add("game-card");
+
 
         // set the inner HTML using a template literal to display some info 
         // about each game
         // TIP: if your images are not displaying, make sure there is space
         // between the end of the src attribute and the end of the tag ("/>")
-        gameCard.innerHTML = 
-            <img class="game-img" src="${game.image}" alt="${game.name}">
-            <h3>${game.name}</h3>
-            <p>${game.description}</p>
-            <p>Raised: $${game.pledged.toLocaleString()}</p>
-            <p>Goal: $${game.goal.toLocaleString()}</p>
-    ;
+
 
         // append the game to the games-container
-        gamesContainer.appendChild(gameCard);
-    }
+
 }
 
 // call the function we just defined using the correct variable
-addGamesToPage(GAMES_JSON);
 // later, we'll call this function using a different list of games
-
 
 
 /*************************************************************************************
@@ -169,5 +153,3 @@ const sortedGames =  GAMES_JSON.sort( (item1, item2) => {
 // create a new element to hold the name of the top pledge game, then append it to the correct element
 
 // do the same for the runner up item
-
-
