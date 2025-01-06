@@ -187,3 +187,5 @@ const summaryText = `A total of $${totalRaisedAmount.toLocaleString()} has been 
 const summaryElement = document.createElement("p");
 summaryElement.innerHTML = summaryText;
 descriptionContainer.appendChild(summaryElement);
+
+  
