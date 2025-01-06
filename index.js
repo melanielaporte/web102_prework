@@ -14,6 +14,7 @@ const GAMES_JSON = JSON.parse(GAMES_DATA);
 function deleteChildElements(parent) {
     while (parent.firstChild) {
         parent.removeChild(parent.firstChild);
+        
     }
 }
 
