@@ -1,26 +1,31 @@
 ![tentacles](https://github.com/user-attachments/assets/12be02ce-d872-4b75-82c0-45a79c715bf4)
 
-<h1>WEB102 Prework</h1>
+In 2000, Sea Monster Crowdfunding was founded in Poseidonis, Atlantis.  With a motto of "Where Big Dreams Meet Big Waves," we specialize in funding the most bizarre, bold, and boundary-pushing indie games that the world didn't know it needed.
 
-Submitted by: **Melanie Laporte*
+-------------------------------------------------------------------------------
 
-SMC was founded in 2000 to fund independent games. We have been in operation for 12 glorious years.</p>
-
-
+WEB102 Prework | 
+Submitted by: **Melanie Laporte* | 
 Time spent: **12** hours spent in total
+
+-------------------------------------------------------------------------------
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [x] The introduction section explains the background of the company and how many games remain unfunded.
+* [x] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [x] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
-The following **optional** features are implemented:
+### The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [ ] A footer with links to social media accounts.
+* [ ] A user comment box.
+* [ ] Purple game card hover color.
+* [ ] New logo.
+* [ ] Updated header font. 
 
 ## Video Walkthrough
 
