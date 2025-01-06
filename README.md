@@ -1,8 +1,11 @@
-<h1>WEB102 Prework - GetTheeFunded</h1>
+![tentacles](https://github.com/user-attachments/assets/12be02ce-d872-4b75-82c0-45a79c715bf4)
+
+<h1>WEB102 Prework</h1>
 
 Submitted by: **Melanie Laporte*
 
-**Sea Monster ** is a website for the company Sea Monster Crowdfunding, under the umbrella Get Thee Funded corporation that displays information about the games they have funded.
+SMC was founded in 2000 to fund independent games. We have been in operation for 12 glorious years.</p>
+
 
 Time spent: **12** hours spent in total
 
