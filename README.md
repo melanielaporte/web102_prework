@@ -11,7 +11,7 @@ Time spent: **13** hours spent in total
 ## Company Beginnings
 In 2022, Sea Monster Crowdfunding (SMC under the Atlantian Inc. umbrella), was founded by heiresses Thalassia Tideborne and Nerissa Wavecaster in downtown Poseidonis, Atlantis. 
 
-Fueled by their lifelong gaming obsession, the sisters embraced the motto *"Where Big Dreams Meet Big Waves"* and set out to reshape the indie gaming world. 
+Fueled by their lifelong gaming obsession, the sisters embraced the motto *"Where Big Dreams Meet Big Waves"* and set out to reshape the independent gaming world. 
 
 SMC specializes in funding and championing the most bizarre, bold, and boundary-pushing indie games—projects so unique, even the surface world did not know that it needed.
 
