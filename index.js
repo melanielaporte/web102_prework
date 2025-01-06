@@ -40,12 +40,7 @@ function addGamesToPage(games) {
 
         // set the inner HTML using a template literal to display some info 
         gamesCard.innerHTML = 
-            <img src="${game.image}" alt="${game.name}" class="game-img">
-            <h3>${game.name}</h3>
-            <p>${game.description}</p>
-            <p><strong>Goal:</strong> $${game.goal.toLocaleString()}</p>
-            <p><strong>Pledged:</strong> $${game.pledged.toLocaleString()}</p>
-        `;               
+            <img src="${game.image}"
         // about each game
         // TIP: if your images are not displaying, make sure there is space
         // between the end of the src attribute and the end of the tag ("/>")
