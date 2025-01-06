@@ -40,6 +40,41 @@ h1 {
     color: black;
 }
 
+
+      /* Header nav bar menu */
+      .navbar {
+        position: fixed;
+        overflow: hidden; 
+        top: 0;
+        right: 0;
+        width: auto;
+        margin-bottom: 5px;  
+        margin-top: 20px;
+        padding-right: 20px;  
+      }
+          /* Unordered list styling */
+      .navbar ul {
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: flex-end;  
+        list-style-type: none; 
+      
+      }
+          /* Navbar list items */
+      .navbar ul li {
+        margin: 0 10px; /
+      }
+          /* Navbar links */
+      .navbar ul li a {
+        color: black;
+        text-decoration: none;
+        font-size: 18px;
+        padding: 10px;  
+        display: block;  
+        font-weight: bold;
+      }
+      
 /* MELANIE-Debug
 .header.scrolled {
     padding: 0.5%;  
