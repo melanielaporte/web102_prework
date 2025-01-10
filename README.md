@@ -35,18 +35,14 @@ The following **required** functionality is completed:
 * [x] New logo.
 * [x] New header font. 
 
-## Project: Live Site
-
-https://melanielaporte.github.io/web102_prework/
+## Project: [Live Site](https://melanielaporte.github.io/web102_prework/)
 
 ## Project: Video Walkthrough
 
-Enjoy a walkthrough of implemented features. 
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+Enjoy a walkthrough of implemented features. ![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/216a3944-dcdf-4baa-9b13-6b3bf08e05aa)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with [ezgif.com](www.ezgif.com )  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -54,7 +50,8 @@ GIF created with ...
 
 ## Project: Notes
 
-Describe any challenges encountered while building the app.
+I experienced some challenges working through the various challenges. The last issue was a misnamed .js tag which prevented game card images be displayed. 
+<p>The solution: change src from image to img.</p>
 
 ## License
 
