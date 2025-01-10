@@ -40,7 +40,6 @@ h1 {
     color: black;
 }
 
-
       /* Header nav bar menu */
       .navbar {
         position: fixed;
@@ -52,20 +51,21 @@ h1 {
         margin-top: 20px;
         padding-right: 20px;  
       }
-          /* Unordered list styling */
+      /* Unordered list styling */
       .navbar ul {
         margin: 0;
         padding: 0;
         display: flex;
         justify-content: flex-end;  
         list-style-type: none; 
-      
       }
-          /* Navbar list items */
+
+      /* Navbar list items */
       .navbar ul li {
         margin: 0 10px; /
       }
-          /* Navbar links */
+      
+      /* Navbar links */
       .navbar ul li a {
         color: black;
         text-decoration: none;
