@@ -27,7 +27,7 @@ The following **required** functionality is completed:
 * [x] The Our Games section initially displays all games funded by Sea Monster Crowdfunding.
 * [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
-### Project: Optional Features
+### Optional Features
 
 * [x] A footer with links to social media accounts.
 * [x] A user comment box.
