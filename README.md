@@ -13,7 +13,7 @@ In 2022, Sea Monster Crowdfunding (SMC under the Atlantian Inc. umbrella), was f
 
 Fueled by their lifelong gaming obsession, the sisters embraced the motto *"Where Big Dreams Meet Big Waves"* and set out to reshape the independent gaming world. 
 
-SMC specializes in funding and championing the most bizarre, bold, and boundary-pushing indie games—projects so unique, even the surface world did not know that it needed.
+SMC specializes in funding and championing the most bizarre, bold, and boundary-pushing indie games—projects so unique, even the surface world did not know it needed.
 
 <img src="https://github.com/user-attachments/assets/2e50f15c-82e1-420c-87ed-748a9466d4d7" alt="Untitled design (1)" width="300" />
 <img src="https://github.com/user-attachments/assets/57f31642-3c4d-4c86-86ca-a1559c1b4d5f" alt="Untitled design (1)" width="300" />
